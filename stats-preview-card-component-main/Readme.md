@@ -16,7 +16,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -36,7 +35,9 @@ Users should be able to:
 - Live Site URL: [CLICK ME🐱‍🏍](https://stats-preview-card-componentmain.netlify.app/)
 
 ## My process
-
+- Breaking given design into section
+- Building the basic structure using HTML
+- Adding css to each component
 ### Built with
 
 - Semantic HTML5 markup
