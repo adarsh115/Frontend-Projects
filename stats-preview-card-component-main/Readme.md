@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [🐱‍🏍](https://stats-preview-card-componentmain.netlify.app/)
+- Live Site URL: [CLICK ME🐱‍🏍](https://stats-preview-card-componentmain.netlify.app/)
 
 ## My process
 
