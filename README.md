@@ -7,5 +7,5 @@ You can find repository for each project above.
 | Projects | Description | Link | Tech |
 | :---         |     :---:      |         :---: | ---:|
 | stats-preview-card-component-main   | Practice project to brushup my css skills     | [https://stats-preview-card-componentmain.netlify.app/](https://stats-preview-card-componentmain.netlify.app/)    | HTML, CSS |
-| git diff     | git diff       | git diff      | css |
+| testimonials-grid-section-main    | Practice project to brushup my css skills       | https://adarsh115-testimonials-grid-section-main.netlify.app/     | HTML, CSS |
 
