@@ -26,6 +26,8 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
+![Screenshot](https://github.com/adarsh115/Frontend-Projects/blob/main/testimonials-grid-section-main/ss.png)
+
 
 
 ### Links
