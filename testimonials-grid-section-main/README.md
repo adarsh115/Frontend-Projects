@@ -76,7 +76,7 @@ Users should be able to:
 
 - Website - [Adarsh](https://meadarshkumar.netlify.app/)
 - Frontend Mentor - [@adarsh115](https://www.frontendmentor.io/profile/adarsh115)
-- Twitter - [@yourusername](https://www.twitter.com/kadarsh115)
+- Twitter - [@kadarsh115](https://www.twitter.com/kadarsh115)
 
 
 ## Acknowledgments
