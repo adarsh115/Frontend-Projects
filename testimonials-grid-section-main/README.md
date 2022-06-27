@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub/testimonialsgridsectionmain-qKWy0myIKI))
+- Live Site URL: (https://adarsh115-testimonials-grid-section-main.netlify.app/)
 
 ## My process
 - I layed structure for project, by creating 5-6 card components as shown in design
@@ -75,7 +75,7 @@ Users should be able to:
 ## Author
 
 - Website - [Adarsh](https://meadarshkumar.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@adarsh115](https://www.frontendmentor.io/profile/adarsh115)
 - Twitter - [@yourusername](https://www.twitter.com/kadarsh115)
 
 
