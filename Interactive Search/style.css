@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #775bf1;
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    place-items: center;
+}
+
+.input {
+    border: none;
+    height: 2.8rem;
+    font-size: 1.5rem;
+    padding: 0;
+    margin: 0;
+    width: 0;
+    outline: none;
+    /* display: none; */
+    transition: width 0.3s ease;
+    background-color: rgba(35, 32, 44, 0.884);
+    color: white;
+}
+
+.btn {
+    height: 2.8rem;
+    border: none;
+    width: 2.8rem;
+    cursor: pointer;
+    background-color: #fff;
+    font-size: 1.1rem;
+}
+
+.search {
+    border: none;
+    /* padding: 10px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.active {
+    width: 200px;
+    /* display: inline-block; */
+}
