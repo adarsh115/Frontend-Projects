@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/adarsh115/Frontend-Projects/blob/main/stats-preview-card-component-main/design/desktop-design.jpg)
+![](https://github.com/adarsh115/Frontend-Projects/blob/main/Interactive%20Search/button.png)
 
 ### Links
 
