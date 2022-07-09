@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![]()
+![](https://github.com/adarsh115/Frontend-Projects/blob/main/Tindog/images/design.PNG)
 
 ### Links
 
 
-- Live Site URL: [CLICK ME🐱‍🏍]()
+- Live Site URL: [CLICK ME🐱‍🏍](https://adarsh-tindog.netlify.app/)
 
 ## My process
 - Breaking given design into section
@@ -49,7 +49,7 @@ Users should be able to:
 - Bootstrap
 
 
-### Continued development/ Need to work on
+### Continued development
 - Refactoring
 - Responsiveness
 - Using margin and padding appropriately
